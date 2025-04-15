@@ -1,4 +1,4 @@
-# 📊 CRM Dashboard (Frontend)
+# 📊 CRM Customer Connect - CRM 
 
 A clean, responsive, and fully customizable **Customer Relationship Management (CRM)** dashboard UI built using **Vite**, **React**, **TypeScript**, **Tailwind CSS**, and **shadcn/ui**. Ideal for frontend prototyping or integration with APIs later.
 
