@@ -59,8 +59,3 @@ Fork the repo, create a new branch, and submit a pull request.
 Licensed under the MIT License.
 ⸻
 
-📬 Contact
-
-For support or collaboration:
-📧 your.email@example.com
-🔗 LinkedIn
