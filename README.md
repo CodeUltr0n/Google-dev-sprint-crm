@@ -20,7 +20,6 @@ A clean, responsive, and fully customizable **Customer Relationship Management (
 - 📈 Dashboard with charts and summary cards (mock data)
 - 📅 Tasks & Scheduling Interface
 - 🔍 Search and Filter
-- 🌙 Light/Dark Theme Support
 - 💾 LocalStorage for data persistence (optional)
 - ✅ Fully Responsive Layout (Mobile/Desktop)
 
