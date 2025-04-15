@@ -46,6 +46,14 @@ Fork the repo, create a new branch, and submit a pull request.
 
 ⸻
 
+
+---
+## 🌐 live prototype
+
+🔗 link:-https://customer-connect-circle.lovable.app/
+
+---
+
 📜 License
 
 Licensed under the MIT License.
