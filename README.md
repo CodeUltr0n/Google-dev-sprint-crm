@@ -128,7 +128,4 @@ Fork the repo, create a new branch, and submit a pull request.
 Licensed under the [MIT License](LICENSE).
 ---
 
-## 📜 License
-
-Licensed under the [MIT License](LICENSE).
 
