@@ -44,7 +44,7 @@ A clean, responsive, and fully customizable **Customer Relationship Management (
 
 ## 🌐 Live Prototype
 
-🔗 [customer-connect-circle.lovable.app](https://customer-connect-circle.lovable.app/)
+🔗 [customer-connect-circle.lovable.app](https://customer-connect-circle.lovable.app)
 
 ---
 
