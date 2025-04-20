@@ -26,12 +26,6 @@ A clean, responsive, and fully customizable **Customer Relationship Management (
 
 ---
 
-## 📸 Screenshots
-
-*Include screenshots or a demo GIF here to showcase the UI.*
-
----
-
 ## 🧠 Future Plans
 
 - 🔗 Connect to real backend (REST or GraphQL)  
@@ -66,7 +60,7 @@ A clean, responsive, and fully customizable **Customer Relationship Management (
 
 ## 🚀 Tech Stack
 
-- ⚡️ [Vite](https://vitejs.dev/) — Fast bundler and dev server  
+
 - ⚛️ [React](https://reactjs.org/) — UI Library  
 - 🧑‍💻 [TypeScript](https://www.typescriptlang.org/) — Type-safe development  
 - 🎨 [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework  
