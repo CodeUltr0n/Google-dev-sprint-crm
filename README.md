@@ -6,7 +6,7 @@ A clean, responsive, and fully customizable **Customer Relationship Management (
 
 ## 🚀 Tech Stack
 
-- ⚡️ [Vite](https://vitejs.dev/) — Fast bundler and dev server  
+
 - ⚛️ [React](https://reactjs.org/) — UI Library  
 - 🧑‍💻 [TypeScript](https://www.typescriptlang.org/) — Type-safe development  
 - 🎨 [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework  
