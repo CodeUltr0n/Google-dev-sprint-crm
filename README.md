@@ -52,12 +52,6 @@ Fork the repo, create a new branch, and submit a pull request.
 ## 👤 Author
 
 - 💼 [Ketan Chokkara](https://www.linkedin.com/in/ketan-chokkara-2888b2274)  
-- 📧 Email:# 📊 CRM Customer Connect - CRM 
-
-
-## 👤 Author
-
-- 💼 [Ketan Chokkara](https://www.linkedin.com/in/ketan-chokkara-2888b2274)  
 - 📧 Email: chokkaraketanrao@gmail.com
 
 
